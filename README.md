@@ -1,4 +1,4 @@
-> I am just a little wild boar🐗 ^:(
+> I am just a little boar🐗 ^:(
 
 ### Ciao, Here's MeetinaXD. 👏
 Visit my blog: [MeetinaXD's Blog](http://meetinaxd.ltiex.com)
@@ -15,8 +15,6 @@ Hi, I'm MeetinaXD, an new-tech-lover frontEnd developer from China.
 - Python
 - C
 + Visual Studio Code
-+ Sublime
-+ HbuilderX
 
 **Stats**
 
