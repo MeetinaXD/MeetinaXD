@@ -3,15 +3,14 @@
 ### Ciao, Here's MeetinaXD. 👏
 Visit my blog: [MeetinaXD's Blog](http://meetinaxd.ltiex.com)
 
-Hi, I'm MeetinaXD, an new-tech-lover frontEnd developer from China.
+Hi, I'm MeetinaXD, an new-tech-lover frontEnd developer.
 
 **Recent**
-- Working on a typescript module for my company.
-- Learning Typescript at the same time.
-- Studying at Wuyi University.
+- Working on reconstruction of my lesson app.
 
 **Languages and Tools**
-- Javascript
+- Typescript / Javascript
+- Java
 - Python
 - C
 + Visual Studio Code
